@@ -48,7 +48,7 @@ HEADER = """
 # The Unofficial Guide
 ### Housing & Food Resources for Dallas-Area College Students
 
-More than **1.5 million** college students face homelessness during their academic career.
+More than **1.5 million** college students face homelessness during their collegiate career.
 This guide helps Dallas-area students quickly find local shelters, food pantries, emergency
 funds, and student support programs.
 
@@ -126,4 +126,6 @@ with gr.Blocks(title="The Unofficial Guide — Dallas Student Resources") as dem
 
 if __name__ == "__main__":
     # theme= moved to launch() in Gradio 6.x (was gr.Blocks() in earlier versions)
-    demo.launch(theme="gstaff/xkcd")
+    demo.launch(theme='allenai/gradio-theme')
+    #demo.launch(theme="gstaff/xkcd")
+    

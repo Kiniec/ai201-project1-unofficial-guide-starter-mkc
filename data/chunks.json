@@ -458,8 +458,8 @@
     "chunk_id": "dallas_college_0001",
     "source": "Dallas College",
     "url": "documents/dallas_college.txt",
-    "text": "shelter situation ( you have no shelter tonight and no friends or family with whom you can stay ), call the homeless crisis helpline at 1 - 888 - 411 - 6802 and select option 3. family gateway also has an online assessment form. once you complete it a family gateway staff member will be in touch with you as soon as possible. young girl in an appartment complex rental assistance while rental assistance through dallas college is temporarily unavailable, our student care coordinators can connect you with other, local rental assistance programs. please complete the student care form and we will contact you. student care form community resources helpful resources in dallas and surrounding counties may be found through my community services or 211 texas. if you have questions about shelter assistance or rental assistance, please call 214 - 860 - 5800 and ask for the basic needs and community connections or email connections @ dallascollege. edu.",
-    "token_count": 181
+    "text": "shelter situation ( you have no shelter tonight and no friends or family with whom you can stay ), call the homeless crisis helpline at 1 - 888 - 411 - 6802 and select option 3. family gateway also has an online assessment form. once you complete it a family gateway staff member will be in touch with you as soon as possible. young girl in an apartment complex rental assistance while rental assistance through dallas college is temporarily unavailable, our student care coordinators can connect you with other, local rental assistance programs. please complete the student care form and we will contact you. student care form community resources helpful resources in dallas and surrounding counties may be found through my community services or 211 texas. if you have questions about shelter assistance or rental assistance, please call 214 - 860 - 5800 and ask for the basic needs and community connections or email connections @ dallascollege. edu.",
+    "token_count": 179
   },
   {
     "chunk_id": "dallaslife_0000",
@@ -873,6 +873,34 @@
     "url": "documents/reddit_places_to_sleep_in_dallas_general.txt",
     "text": "bag goes a long way when you ’ re homeless. it ’ s designed to reflect your body heat back onto you. also any place that ’ s usually uncomfortable becomes more comfortable. also if you ’ re hungry check out different grocery store dumpsters. they may be unlocked. if they are they throw away a bunch of food usually technically expired. never once did i get sick from expired food. i stayed away from milk and eggs tho. i survived for years off dumpsters. luck! very helpful, thank you. do convenience stores do this as well? u / ki4clz avatar ki4clz r / roomandboard read the megathread you might find it helpful [ deleted ] shelters : www. findhelp. org regbaby be forewarned : a major cold front will sweep through texas sunday night to monday morning. it ' s been warmer than usual this week, but that is about to end. temps may go as low as freezing. hope you ' ve found a good place.",
     "token_count": 207
+  },
+  {
+    "chunk_id": "switchupcd_medium_0000",
+    "source": "Switchupcd Medium",
+    "url": "documents/switchupcd_medium.txt",
+    "text": "7 tips to help you survive while homeless i have experienced many types of homelessness, including street homeless ( sleeping on the ground ), car homeless ( sleeping in a car ), hotel homeless, and shelter homeless. these are seven tips from direct experience. 1. don ' t look homeless when you look homeless, you will be treated like the stereotypical homeless person, which can cost you job opportunities. studies show that more than half of unhoused people have jobs. but having a job doesn ' t give you access to a shower. when showers aren ' t an option, get a long - lasting hairstyle and use baby wipes. baby wipes can be used anywhere for cleaning skin and are stored in a backpack easily. looking like you belong will get you places you never thought you could be. 2. sleep find a place to sleep. you need quality sleep to recover your physical and mental health. most shelters get a bad rap for good reason. use earplugs to block out noise and get better rest in a shelter environment. 3. get storage you can ' t sleep in a storage unit, but you can use one to get yourself situated or make your day - to - day life easier. being limited by the space a single backpack provides is difficult when you are homeless. you spend too much time swapping things in and out of that bag. buying items by the unit instead of in bulk wastes money when you lack storage space.",
+    "token_count": 295
+  },
+  {
+    "chunk_id": "switchupcd_medium_0001",
+    "source": "Switchupcd Medium",
+    "url": "documents/switchupcd_medium.txt",
+    "text": ". being limited by the space a single backpack provides is difficult when you are homeless. you spend too much time swapping things in and out of that bag. buying items by the unit instead of in bulk wastes money when you lack storage space. consider these factors when renting a storage unit : - proximity to your shelter and area of operations - allowed time per check - in - temperature control and weather insulation with a storage unit, holding onto valuable items such as laptops for online work is much safer. 4. get more storage one or two backpacks to sort your stuff is always great. consider organizing your belongings across multiple bags : - essentials you carry by default - clothes you can swap in and out to stay fresh - blankets for your shelter - bathroom tools and supplies - medical and cleaning supplies - technology for work - miscellaneous work items a toiletry bag is essential for organizing bathroom supplies. hanging toiletry bags are especially practical in shelter environments. you ' re homeless, not broke. being miserable for three months to save up for one month ' s rent is not worth it when you can make being homeless manageable. 5. building rotation when you have downtime, you need places to go. libraries aren ' t open 24 / 7, and some shelters kick you out during the daytime. that ' s why you need a building rotation for every day of the week.",
+    "token_count": 277
+  },
+  {
+    "chunk_id": "switchupcd_medium_0002",
+    "source": "Switchupcd Medium",
+    "url": "documents/switchupcd_medium.txt",
+    "text": ". building rotation when you have downtime, you need places to go. libraries aren ' t open 24 / 7, and some shelters kick you out during the daytime. that ' s why you need a building rotation for every day of the week. good options : - libraries ( free, climate controlled, wifi access ) - coffee shops - parks - gyms ( access to showers ) these places let you spend hours on your phone or laptop. that ' s more time you have to get back on your feet. 6. mobile data using the wifi of others isn ' t reliable. your best bet is a phone with mobile data. to get a phone without a physical address, see tip 7 below. 7. legal workarounds legal documents are required in many scenarios : id, physical address, phone number, and email address. email : many email providers let you create an email address for free. phone number options : - purchase a plan from a carrier - purchase a sim card and activate a prepaid plan - use a voip service such as google voice - use an xmpp service such as jmp. chat physical address : you can use a homeless shelter as your physical address. mail forwarding services can also provide a physical address for legal purposes. id : in the united states, non - driver identification cards can be registered as long as you have a legal address and a supporting document such as a birth certificate. check your state ' s licensing office for specific requirements.",
+    "token_count": 300
+  },
+  {
+    "chunk_id": "switchupcd_medium_0003",
+    "source": "Switchupcd Medium",
+    "url": "documents/switchupcd_medium.txt",
+    "text": "physical address for legal purposes. id : in the united states, non - driver identification cards can be registered as long as you have a legal address and a supporting document such as a birth certificate. check your state ' s licensing office for specific requirements. bonus : food resources if you need food, you have more options than you may think : - food banks - religious organizations - public events - fast food mobile app signup rewards ( many chains offer free items for new app users ) - ask people directly — most are willing to help",
+    "token_count": 106
   },
   {
     "chunk_id": "unt_dallas_emergecy_fund_help_0000",
